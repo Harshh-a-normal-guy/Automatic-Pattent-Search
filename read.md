@@ -64,3 +64,8 @@ task2 extract Pdf functionlaity(opening the doc files bt not able to download ch
 #task 4 remove extra faltu filesW
 #captchta problem
 
+
+
+
+#inventor name1 and inventor name2
+#applicant name 1 and applicant name 2
